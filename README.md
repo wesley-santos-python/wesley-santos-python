@@ -71,7 +71,7 @@
 ## 📫 Contato
 
 - 💼 [LinkedIn](https://linkedin.com/in/wesley-santos-python)
-- 📧 seu-email@gmail.com
+- 📧 wesley_1932@hotmail.com
 - 🌐 [Portfólio](https://seu-portfolio.com)
 
 ---
