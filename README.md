@@ -60,9 +60,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesley-santos-python&show_icons=true&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com/?user=wesley-santos-python&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-santos-python&layout=compact&theme=dracula)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wesley-santos-python&layout=compact&theme=dracula)
 
 </div>
 
