@@ -60,7 +60,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=wesley-santos-python&theme=dracula)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wesley-santos-python&show_icons=true&theme=dracula)
 
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wesley-santos-python&layout=compact&theme=dracula)
 
