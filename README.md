@@ -16,8 +16,9 @@
 🐍 Desenvolvedor Python focado em **automação** e **inteligência artificial**
 
 📜 **Certificações:**
-- 🏆 Microsoft Python Development Professional Certificate (Coursera)
-- 🏆 Google IT Automation with Python (Coursera) - Em andamento
+- 🏆 Microsoft Python Development Professional Certificate 
+- 🏆 Google IT Automation with Python
+- 🏆 Análise e Desenvolvimento de Sistemas (Em andamento...)
 
 🔧 **Especialidades:**
 - Automação de processos com Python
@@ -68,7 +69,7 @@
 ## 📫 Contato
 
 - 💼 [LinkedIn](https://linkedin.com/in/wesley-santos-python)
-- 📧 seu-email@gmail.com
+- 📧 wesley_1932@hotmail.com
 - 🌐 [Portfólio](https://seu-portfolio.com)
 
 ---
