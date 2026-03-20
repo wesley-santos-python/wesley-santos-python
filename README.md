@@ -46,7 +46,7 @@
 
 ## 🚀 Projetos em Destaque
 
-### 🎫 SupportFlow AI
+### 🎫 [SupportFlow AI](https://github.com/wesley-santos-python/supportflow-ai)
 > Sistema de gestão de tickets com IA generativa
 
 - 🤖 Análise automática de e-mails com Google Gemini
@@ -58,7 +58,7 @@
 
 ---
 
-### 📅 AgendaFlow
+### 📅 [AgendaFlow](https://github.com/wesley-santos-python/Agendaflow)
 > Plataforma de agendamento inteligente via WhatsApp com IA generativa
 
 - 🤖 Chatbot com IA Gemini para identificar intenções e extrair dados
@@ -70,7 +70,7 @@
 
 ---
 
-### 🤖 Assistente IA v2.4
+### 🤖 [Assistente IA v2.3](https://github.com/wesley-santos-python/assistente_Ai_V2.3)
 > Assistente inteligente com reconhecimento de voz otimizado e automação completa do sistema
 
 - 🎤 Sistema de voz revolucionário e comandos inteligentes
@@ -82,7 +82,7 @@
 
 ---
 
-### 🛒 Sistema PDV Completo
+### 🛒 [Sistema PDV Completo](https://github.com/wesley-santos-python/pdv-sistema-completo)
 > Sistema de Ponto de Venda integrado com interface gráfica moderna
 
 - 📦 Controle de estoque completo com alertas automáticos
