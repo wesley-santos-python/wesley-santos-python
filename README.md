@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![LinkedIn](https://linkedin.com/in/wesley-santos-python)
-![GitHub](https://github.com/wesley-santos-python)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wesley-santos-python)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wesley-santos-python)
 
 **Desenvolvedor Python | Automação | Dados | IA Generativa**
 
@@ -32,12 +32,13 @@
 
 <div align="center">
 
-!Python
-!SQLAlchemy
-!SQLite
-!Google Cloud
-!Git
-!GitHub Actions
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 
 </div>
 
@@ -104,9 +105,9 @@
 
 ## 📫 Contato
 
-- 💼 LinkedIn
+- 💼 [LinkedIn](https://linkedin.com/in/wesley-santos-python)
 - 📧 wesley_1932@hotmail.com
-- 🌐 Portfólio
+- 🌐 [Portfólio](https://seu-portfolio.com)
 
 ---
 
